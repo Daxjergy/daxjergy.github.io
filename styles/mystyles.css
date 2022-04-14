@@ -1,0 +1,37 @@
+.resume{
+    font-family:'Times New Roman', Times, serif;
+    color:grey;
+    text-decoration: underline;
+}
+
+.byu{
+    color:royalblue
+}
+
+p{
+    font-size: larger;
+    color:navy;
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+ol{
+   color:black;
+}
+
+.anchor{
+    bottom: 5px;
+    position:absolute;
+}
+
+.float{
+    float:right;
+}
